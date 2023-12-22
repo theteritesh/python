@@ -1,0 +1,9 @@
+a=10
+b=10
+c=20
+print(a,b)
+print(id(a))
+print(id(b))
+print(id(c))
+print("a")
+print('a')
