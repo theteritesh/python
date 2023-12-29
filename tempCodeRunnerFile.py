@@ -1,1 +1,1 @@
-z
+All are same
