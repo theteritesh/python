@@ -1,1 +1,5 @@
-All are same
+t:
+    print("ERROR....")
+
+finally: 
+    conn.close()
