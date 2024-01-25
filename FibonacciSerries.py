@@ -1,0 +1,10 @@
+n=10
+num1=0
+num2=1
+temp=num2
+count=1
+while count<=n:
+    print(temp,end=" ")
+    count+=1
+    num1,num2=num2,temp
+    temp=num1+num2
